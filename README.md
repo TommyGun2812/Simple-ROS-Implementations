@@ -1,2 +1,2 @@
 # Simple-ROS-Implementations
-This REPO tends to have some demostrative ROS implemetations, in order to undertand the use of the middleware
+This repository provides a collection of demonstrative ROS implementations intended to facilitate the understanding of the middleware's core concepts, architecture, and usage patterns.
