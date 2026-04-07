@@ -1,4 +1,5 @@
 # Simple-ROS-Implementations
-This repository provides a collection of demonstrative ROS implementations intended to facilitate the understanding of the middleware's core concepts, architecture, and usage patterns.
 
-(Hope it could be useful for my friend Tono :D)
+A practical collection of ROS2 implementations to help you understand the middleware from the ground up. 
+
+(May your nodes never crash and your topics always publish, Tono)
